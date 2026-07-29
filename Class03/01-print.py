@@ -7,5 +7,3 @@ nombre = "Yonathan"
 print(nombre)
 
 print(len(float))
-
-print
