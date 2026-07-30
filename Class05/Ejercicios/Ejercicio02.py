@@ -1,12 +1,15 @@
 # Ejercicio 2: Creación de una matriz 3x3 de ceros
-# Usando listas anidadas (3 filas x 3 columnas).
-# Cada sublista interna representa una fila con tres ceros.
+
+# Definimos la matriz usando listas de listas
 matriz_ceros = [
     [0, 0, 0],
     [0, 0, 0],
     [0, 0, 0]
 ]
-# Imprimimos la matriz de forma estructurada mediante un bucle for
-print("\nMatriz 3x3 de ceros:")
-for fila in matriz_ceros:
-    print(fila)
+
+print("--- Matriz 3x3 de ceros ---")
+
+# Imprimimos cada fila de la matriz
+print(matriz_ceros[0])
+print(matriz_ceros[1])
+print(matriz_ceros[2])
