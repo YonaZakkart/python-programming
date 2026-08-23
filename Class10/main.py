@@ -1,1 +1,3 @@
-print("class 10")
+print("espacio para clase 10")
+
+ase = 9
