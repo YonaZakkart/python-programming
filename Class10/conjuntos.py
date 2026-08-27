@@ -3,5 +3,5 @@ print(conjunto_1)
 print(type(conjunto_1))
 
 
-set1 = {False, 0}
-print(set1)
+# set1 = {False, 0}
+# print(set1)
