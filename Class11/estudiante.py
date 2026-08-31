@@ -40,6 +40,3 @@ print("\nNombres :", estudiante["nombre"],
       "\nEdad :", estudiante["edad"],
       "\nCarrera :", estudiante["carrera"],
       "\nMaterias :", estudiante["cursos"])
-
-
-print("Diccionario completo")
