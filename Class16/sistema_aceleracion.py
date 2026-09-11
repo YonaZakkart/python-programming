@@ -6,3 +6,4 @@ def acelerar(velocidad_inicial):
     return nueva_velocidad
 
 # pedimos la velocidad inicial
+input(print("Ingrese su velocidad actual: "))
